@@ -1,0 +1,45 @@
+myapp/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   └── Notification.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   ├── LeaveApplication.jsx
+│   │   ├── LeaveHistory.jsx
+│   │   ├── AdminPanel.jsx
+│   │   └── NotFound.jsx
+│   ├── styles/
+│   │   ├── Dashboard.css
+│   │   ├── LeaveApplication.css
+│   │   ├── LeaveHistory.css
+│   │   ├── AdminPanel.css
+│   │   ├── Navbar.css
+│   │   └── global.css
+│   ├── utils/
+│   │   ├── api.js
+│   │   ├── dateUtils.js
+│   │   └── validation.js
+│   ├── assets/
+│   │   ├── images/
+│   │   │   ├── logo.png
+│   │   │   └── profile-placeholder.jpg
+│   │   ├── fonts/
+│   │   │   └── custom-font.ttf
+│   │   └── icons/
+│   │       └── leave-icon.svg
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── routes/
+│       ├── PrivateRoute.jsx
+│       └── AppRoutes.jsx
+├── package.json
+├── .gitignore
+├── README.md 
+

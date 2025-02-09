@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Calibri';
+    src: url('/fonts/calibri-bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+.welcome-section {
+    background-color: white;
+    color: #353535; /* Blue text */
+    font-family: 'Calibri', sans-serif;
+    font-weight: bold;
+}
